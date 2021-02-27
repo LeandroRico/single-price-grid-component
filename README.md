@@ -1,5 +1,7 @@
 # Frontend Mentor - Single Price Grid Component
 
+## Preview on GitHub Pages: [click here.](https://single-price-grid-component-gamma-six.vercel.app/ "click here.")
+
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
